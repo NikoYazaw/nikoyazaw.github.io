@@ -1,0 +1,89 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "情侣飞行棋"
+			}
+		},
+		{
+			"path": "pages/game/qinglu",
+			"style": {
+				"navigationBarTitleText": "情侣版飞行棋"
+			}
+		},
+		{
+			"path": "pages/game/gaoji",
+			"style": {
+				"navigationBarTitleText": "高级版飞行棋"
+			}
+		},
+		{
+			"path": "pages/game/simi",
+			"style": {
+				"navigationBarTitleText": "私密版飞行棋"
+			}
+		},
+		{
+			"path": "pages/game/sm",
+			"style": {
+				"navigationBarTitleText": "SM版飞行棋"
+			}
+		},
+		{
+			"path": "pages/game/nvpu",
+			"style": {
+				"navigationBarTitleText": "女仆版飞行棋"
+			}
+		},
+		{
+			"path": "pages/game/sizu",
+			"style": {
+				"navigationBarTitleText": "丝足版飞行棋"
+			}
+		},
+		{
+			"path": "pages/game/rules",
+			"style": {
+				"navigationBarTitleText": "情侣版—游戏玩法"
+			}
+		},
+		{
+			"path": "pages/game/sm_rules",
+			"style": {
+				"navigationBarTitleText": "SM版—游戏玩法"
+			}
+		},
+		{
+			"path": "pages/game/simi_rules",
+			"style": {
+				"navigationBarTitleText": "私密版—游戏玩法"
+			}
+		},
+		{
+			"path": "pages/game/gaoji_rules",
+			"style": {
+				"navigationBarTitleText": "高级版—游戏玩法"
+			}
+		},
+		{
+			"path": "pages/game/nvpu_rules",
+			"style": {
+				"navigationBarTitleText": "女仆版—游戏玩法"
+			}
+		},
+		{
+			"path": "pages/game/sizu_rules",
+			"style": {
+				"navigationBarTitleText": "丝足版—游戏玩法"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "情侣飞行棋",
+		"navigationBarBackgroundColor": "#ff69b4",
+		"backgroundColor": "#fff0f5"
+	},
+	"uniIdRouter": {}
+}
